@@ -1,0 +1,12 @@
+{
+	"id": 19880896,
+	"epoch_second": 1612268137,
+	"problem_id": "yahoo_procon2019_qual_a",
+	"contest_id": "yahoo-procon2019-qual",
+	"user_id": "wdiiahk",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 6227,
+	"result": "AC",
+	"execution_time": 8
+}
